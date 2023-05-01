@@ -1,4 +1,11 @@
 /*Dont do the Ford*/
+}
+:root {
+--home-icon: url(https://i.imgur.com/wEM18XH.png);
+--home-position: center;
+--home-size: 35px;
+}
+
 .homeIcon-r0w4ny{
     width:100%;
     height:100%;
@@ -6,10 +13,5 @@
 }
 .homeIcon-r0w4ny>path{
     display:none
-}
-:root {
---home-icon: url(https://i.imgur.com/wEM18XH.png);
---home-position: center;
---home-size: 35px;
-}
+
 /*Dont do the Ford*/
